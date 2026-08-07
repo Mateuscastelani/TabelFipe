@@ -61,7 +61,7 @@ public class Principal {
                 .forEach(System.out::println);
 
 
-        System.out.println("\nDigite um trecho do nome do carro a ser buscado: ");
+        System.out.println("\nDigite um trecho do nome do veiculo a ser buscado: ");
         var nomeVeiculo = leitura.nextLine();
 
         List<Dados> modelosFiltrados = modeloLista.modelos().stream()
