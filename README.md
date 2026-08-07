@@ -42,7 +42,7 @@ O projeto foi refatorado para seguir o **Princípio da Responsabilidade Única (
 1. Certifique-se de ter o **Java JDK** instalado na sua máquina (versão 17 ou superior recomendada).
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [[https://github.com/Mateuscastelani/TabelFipe.git](https://github.com/Mateuscastelani/TabelFipe.git)]
    Importe o projeto na sua IDE favorita (IntelliJ IDEA, Eclipse, VS Code) como um projeto Maven.
 
 Atualize as dependências do Maven (Reload Project).
